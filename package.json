@@ -1,0 +1,28 @@
+{
+    "name": "@chrisaguilar/prettier-config",
+    "version": "1.0.0",
+    "description": "My personal prettier configuration - For ease of use and portability",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chrisaguilar/prettier-config.git"
+    },
+    "keywords": [
+        "chrisaguilar",
+        "prettier",
+        "config"
+    ],
+    "author": "Christopher Aguilar <christopher.m.aguilar@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/chrisaguilar/prettier-config/issues"
+    },
+    "homepage": "https://github.com/chrisaguilar/prettier-config#readme",
+    "publishConfig": {
+        "access": "public"
+    },
+    "dependencies": {
+        "prettier": "^2.0.5"
+    },
+    "prettier": "./index.js"
+}
