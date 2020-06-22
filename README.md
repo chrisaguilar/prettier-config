@@ -1,3 +1,22 @@
-# Prettier Config
+# @chrisaguilar/prettier-config
 
-My personal prettier configuration for ease of use and portability.
+> My personal [Prettier](https://prettier.io) configuration
+
+## Usage
+
+### Install
+
+`$ npm i -D @chrisaguilar/prettier-config`
+
+### Edit `package.json`
+
+```jsonc
+{
+    // ...
+    "prettier": "@chrisaguilar/prettier-config"
+}
+```
+
+## License
+
+MIT
