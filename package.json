@@ -19,7 +19,8 @@
     },
     "homepage": "https://github.com/chrisaguilar/prettier-config#readme",
     "publishConfig": {
-        "access": "public"
+        "access": "public",
+        "registry": "https://registry.npmjs.org"
     },
     "dependencies": {
         "prettier": "^2.0.5"
